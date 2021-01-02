@@ -1,2 +1,2 @@
-# Parrot Simulink
-Model, Simulate and Control Parrot Drone in MATLAB &amp; SIMULINK
+# DJI Simulink
+Model, Simulate and Control DJI Drone in MATLAB &amp; SIMULINK
